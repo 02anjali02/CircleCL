@@ -1,0 +1,22 @@
+# C# Program - Sum Calculator
+
+This is a simple C# program that calculates the sum of two numbers.
+
+## Usage
+
+1. Compile and run the program using a C# development environment like Visual Studio or Visual Studio Code.
+2. Follow the on-screen prompts to enter two numbers.
+3. The program will calculate and display the sum of the entered numbers.
+
+## Test Cases
+
+You can run the test cases provided to ensure that the addition function is working correctly. These tests are written using the xUnit testing framework.
+
+To run the tests, you can use a testing tool like xUnit CLI:
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory where your test project is located.
+3. Run the following command to execute the tests:
+
+   ```bash
+   dotnet test
